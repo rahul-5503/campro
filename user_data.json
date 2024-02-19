@@ -1,0 +1,15 @@
+[
+    {
+        "cameratype": "0",
+        "macaddress": "28:18:fd:95:58:6c",
+        "password": "admin123",
+        "user": "admin"
+    },
+    {
+        "cameratype": "1",
+        "macaddress": "24:b1:05:72:7c:4e",
+        "password": "Squadcube12",
+        "user": "admin"
+    }
+    
+]
